@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../soma_sub_4bits.srcs/sources_1/new/complemento_1.vhd" \
+"../../../../soma_sub_4bits.srcs/sources_1/new/soma1.vhd" \
+"../../../../soma_sub_4bits.srcs/sources_1/new/soma4.vhd" \
+"../../../../soma_sub_4bits.srcs/sim_1/new/soma4_tb.vhd" \
+
+# Do not sort compile order
+nosort

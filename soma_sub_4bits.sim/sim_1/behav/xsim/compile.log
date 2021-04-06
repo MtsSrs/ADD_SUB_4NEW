@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mathe/Desktop/Facul/vivado/PEDproj/soma_sub_4bits/soma_sub_4bits.srcs/sources_1/new/soma4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'soma4'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/mathe/Desktop/Facul/vivado/PEDproj/soma_sub_4bits/soma_sub_4bits.srcs/sim_1/new/soma4_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Soma4_tb'
